@@ -1,2 +1,2 @@
 # S2T
-VOSK realisation for *.wav files
+VOSK adapation for *.wav files
